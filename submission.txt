@@ -1,0 +1,6 @@
+FLAG{sqli_f956adfcbf57}
+FLAG{idor_7a613c270b94}
+FLAG{xss_2976401e3578}
+FLAG{authz_0fa6edc9f226}
+FLAG{traversal_890c8b642c8b}
+FLAG{exposure_2980e5bbe521}
